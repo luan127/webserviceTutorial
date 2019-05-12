@@ -1,0 +1,10 @@
+D:\CODE_II_2019\CONGNGHELAPTRINHTICHHOP\WebserviceTutorial\winform\bin\Debug\winform.exe.config
+D:\CODE_II_2019\CONGNGHELAPTRINHTICHHOP\WebserviceTutorial\winform\bin\Debug\winform.exe
+D:\CODE_II_2019\CONGNGHELAPTRINHTICHHOP\WebserviceTutorial\winform\bin\Debug\winform.pdb
+D:\CODE_II_2019\CONGNGHELAPTRINHTICHHOP\WebserviceTutorial\winform\obj\Debug\winform.csprojAssemblyReference.cache
+D:\CODE_II_2019\CONGNGHELAPTRINHTICHHOP\WebserviceTutorial\winform\obj\Debug\winform.Form1.resources
+D:\CODE_II_2019\CONGNGHELAPTRINHTICHHOP\WebserviceTutorial\winform\obj\Debug\winform.Properties.Resources.resources
+D:\CODE_II_2019\CONGNGHELAPTRINHTICHHOP\WebserviceTutorial\winform\obj\Debug\winform.csproj.GenerateResource.cache
+D:\CODE_II_2019\CONGNGHELAPTRINHTICHHOP\WebserviceTutorial\winform\obj\Debug\winform.csproj.CoreCompileInputs.cache
+D:\CODE_II_2019\CONGNGHELAPTRINHTICHHOP\WebserviceTutorial\winform\obj\Debug\winform.exe
+D:\CODE_II_2019\CONGNGHELAPTRINHTICHHOP\WebserviceTutorial\winform\obj\Debug\winform.pdb
